@@ -9,7 +9,6 @@
 # This file is copied and modified from Chromium (src/BUILD.gn).
 group("root") {
   deps = [
-    "//webrtc",
-    "//webrtc/examples",
+    "//photon",
   ]
 }
